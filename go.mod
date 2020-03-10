@@ -10,5 +10,5 @@ require (
 	github.com/mattn/go-isatty v0.0.9 // indirect
 	github.com/stretchr/testify v1.4.0 // indirect
 	github.com/ugorji/go/codec v1.1.7 // indirect
-	rsc.io/quote/v3 v3.0.0
+	rsc.io/quote/v3 v3.1.0
 )
