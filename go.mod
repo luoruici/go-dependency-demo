@@ -3,6 +3,6 @@ module github.com/luoruici/go-dependency-demo
 go 1.13
 
 require (
-	github.com/gin-gonic/gin v1.4.0
+	github.com/gin-gonic/gin v1.7.0
 	rsc.io/quote/v3 v3.1.0
 )
